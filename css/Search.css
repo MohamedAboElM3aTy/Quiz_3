@@ -37,22 +37,8 @@ body{
           font-weight: bold;
           color: #333333;
           margin-bottom: 10px;
-          text-align: left;
           display: block;
       }
-
-      
-      input[type="text"], input[type="password"] {
-          width: 100%;
-          padding: 10px;
-          margin-bottom: 20px;
-          border: none;
-          border-radius: 5px;
-          box-shadow: 0 0 5px rgba(0,0,0,0.1);
-          font-size: 16px;
-          color: #333333;
-      }
-
       
       input[type="submit"] {
           background-color: #4CAF50;
@@ -62,7 +48,6 @@ body{
           padding: 10px 20px;
           font-size: 16px;
           cursor: pointer;
-          transition: background-color 0.3s ease;
       }
 
       input[type="submit"]:hover {
